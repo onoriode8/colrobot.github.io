@@ -2,21 +2,25 @@ li{
    list-style:none;
    text-decoration:none;
    color:#ffff;
-   display:inline-block;
+   display:flex;
 }
+
+.navbar{
+    background-color:gray;
+    display:flex;
+    border:20px solid gray;	
+}
+
 img{
-	width:180px;
-	height:220px;
-	border:5px solid #ffff;
+    width:180px;
+    height:220px;
+    border:5px solid #ffff;
     margin:5px;
     padding:3px;
     background-color:lightblue;
     transition:all 1s;
 }
-.cot{
-	border:20px solid green;
-	background-color: green;
-}
+
 .push{
       margin-left:auto;
 }
