@@ -1,3 +1,6 @@
+body{
+	margin:0;
+}
 img{
 	width:180px;
 	height:220px;
@@ -6,6 +9,13 @@ img{
     padding:3px;
     background-color:lightblue;
     transition:all 1s;
+}
+.cot{
+	border:20px solid green;
+	background-color: green;
+}
+.push{
+      margin-left:auto;
 }
 
 .container{
