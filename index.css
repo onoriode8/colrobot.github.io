@@ -6,9 +6,15 @@ li{
 }
 
 .navbar{
-    background-color:gray;
+    background-color:#bbb;
     display:flex;
-    border:20px solid gray;	
+    border:20px solid #bbb;	
+}
+
+.sticky{
+	position:fixed;
+	top:0;
+	width:100%;
 }
 
 img{
