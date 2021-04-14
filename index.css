@@ -1,6 +1,11 @@
 body{
 	margin:0;
 }
+li{
+   list-style:none;
+   text-decoration:none;
+   color:#ffff;
+}
 img{
 	width:180px;
 	height:220px;
